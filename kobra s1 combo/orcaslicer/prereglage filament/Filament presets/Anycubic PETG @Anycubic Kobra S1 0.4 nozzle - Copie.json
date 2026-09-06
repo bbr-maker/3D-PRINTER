@@ -1,0 +1,79 @@
+{
+    "activate_air_filtration": [
+        "1"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "100"
+    ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "35"
+    ],
+    "fan_cooling_layer_time": [
+        "8"
+    ],
+    "fan_max_speed": [
+        "100"
+    ],
+    "fan_min_speed": [
+        "35"
+    ],
+    "filament_deretraction_speed": [
+        "nil"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_retract_before_wipe": [
+        "nil"
+    ],
+    "filament_retraction_length": [
+        "nil"
+    ],
+    "filament_retraction_minimum_travel": [
+        "nil"
+    ],
+    "filament_retraction_speed": [
+        "nil"
+    ],
+    "filament_settings_id": [
+        "Anycubic PETG @Anycubic Kobra S1 0.4 nozzle - Copie"
+    ],
+    "filament_wipe_distance": [
+        "nil"
+    ],
+    "from": "User",
+    "inherits": "Anycubic PETG @Anycubic Kobra S1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Anycubic PETG @Anycubic Kobra S1 0.4 nozzle - Copie",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "pressure_advance": [
+        "0.04"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "30"
+    ],
+    "slow_down_min_speed": [
+        "30"
+    ],
+    "version": "2.3.0.3"
+}
